@@ -1,5 +1,5 @@
 {
-    "name": "winter/storm",
+    "name": "nosaraei/storm",
     "description": "Winter CMS Storm Library",
     "homepage": "https://wintercms.com",
     "keywords": ["winter", "cms", "storm"],
@@ -19,6 +19,11 @@
             "name": "Luke Towers",
             "email": "wintercms@luketowers.ca",
             "role": "Lead Maintainer"
+        },
+        {
+            "name": "Mohammad Nosaraei",
+            "email": "m.nosaraei@gmail.com",
+            "role": "Devloper"
         }
     ],
     "require": {
